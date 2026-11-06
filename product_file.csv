@@ -1,0 +1,1001 @@
+productid,product_type,saleid,customerid
+P1,Health and beauty,S1,C320
+P2,Electronic accessories,S2,C492
+P3,Home and lifestyle,S3,C97
+P4,Health and beauty,S4,C283
+P5,Sports and travel,S5,C284
+P6,Electronic accessories,S6,C198
+P7,Electronic accessories,S7,C658
+P8,Home and lifestyle,S8,C141
+P9,Health and beauty,S9,C237
+P10,Food and beverages,S10,C619
+P11,Fashion accessories,S11,C417
+P12,Electronic accessories,S12,C743
+P13,Electronic accessories,S13,C346
+P14,Food and beverages,S14,C217
+P15,Health and beauty,S15,C173
+P16,Sports and travel,S16,C785
+P17,Health and beauty,S17,C95
+P18,Sports and travel,S18,C268
+P19,Food and beverages,S19,C235
+P20,Home and lifestyle,S20,C379
+P21,Electronic accessories,S21,C268
+P22,Health and beauty,S22,C461
+P23,Home and lifestyle,S23,C117
+P24,Electronic accessories,S24,C62
+P25,Sports and travel,S25,C98
+P26,Home and lifestyle,S26,C634
+P27,Fashion accessories,S27,C57
+P28,Fashion accessories,S28,C227
+P29,Food and beverages,S29,C4
+P30,Health and beauty,S30,C209
+P31,Fashion accessories,S31,C176
+P32,Sports and travel,S32,C103
+P33,Sports and travel,S33,C246
+P34,Health and beauty,S34,C491
+P35,Food and beverages,S35,C541
+P36,Sports and travel,S36,C168
+P37,Sports and travel,S37,C596
+P38,Electronic accessories,S38,C785
+P39,Health and beauty,S39,C370
+P40,Home and lifestyle,S40,C113
+P41,Home and lifestyle,S41,C145
+P42,Home and lifestyle,S42,C403
+P43,Sports and travel,S43,C397
+P44,Food and beverages,S44,C254
+P45,Health and beauty,S45,C542
+P46,Electronic accessories,S46,C595
+P47,Health and beauty,S47,C621
+P48,Food and beverages,S48,C22
+P49,Electronic accessories,S49,C8
+P50,Fashion accessories,S50,C11
+P51,Food and beverages,S51,C604
+P52,Food and beverages,S52,C223
+P53,Fashion accessories,S53,C288
+P54,Fashion accessories,S54,C388
+P55,Home and lifestyle,S55,C83
+P56,Electronic accessories,S56,C346
+P57,Home and lifestyle,S57,C80
+P58,Health and beauty,S58,C31
+P59,Home and lifestyle,S59,C83
+P60,Electronic accessories,S60,C663
+P61,Sports and travel,S61,C381
+P62,Home and lifestyle,S62,C362
+P63,Sports and travel,S63,C727
+P64,Sports and travel,S64,C127
+P65,Health and beauty,S65,C490
+P66,Health and beauty,S66,C69
+P67,Health and beauty,S67,C231
+P68,Fashion accessories,S68,C407
+P69,Sports and travel,S69,C638
+P70,Health and beauty,S70,C682
+P71,Food and beverages,S71,C404
+P72,Fashion accessories,S72,C441
+P73,Food and beverages,S73,C459
+P74,Electronic accessories,S74,C442
+P75,Home and lifestyle,S75,C53
+P76,Electronic accessories,S76,C47
+P77,Fashion accessories,S77,C416
+P78,Fashion accessories,S78,C720
+P79,Food and beverages,S79,C511
+P80,Health and beauty,S80,C231
+P81,Health and beauty,S81,C142
+P82,Food and beverages,S82,C250
+P83,Food and beverages,S83,C391
+P84,Food and beverages,S84,C163
+P85,Sports and travel,S85,C701
+P86,Sports and travel,S86,C714
+P87,Fashion accessories,S87,C683
+P88,Food and beverages,S88,C781
+P89,Sports and travel,S89,C615
+P90,Health and beauty,S90,C741
+P91,Home and lifestyle,S91,C384
+P92,Sports and travel,S92,C546
+P93,Sports and travel,S93,C130
+P94,Health and beauty,S94,C46
+P95,Health and beauty,S95,C512
+P96,Electronic accessories,S96,C244
+P97,Health and beauty,S97,C692
+P98,Electronic accessories,S98,C744
+P99,Food and beverages,S99,C65
+P100,Home and lifestyle,S100,C13
+P101,Fashion accessories,S101,C718
+P102,Fashion accessories,S102,C330
+P103,Electronic accessories,S103,C599
+P104,Food and beverages,S104,C66
+P105,Health and beauty,S105,C654
+P106,Electronic accessories,S106,C782
+P107,Fashion accessories,S107,C326
+P108,Sports and travel,S108,C137
+P109,Food and beverages,S109,C209
+P110,Electronic accessories,S110,C288
+P111,Sports and travel,S111,C68
+P112,Health and beauty,S112,C729
+P113,Fashion accessories,S113,C528
+P114,Home and lifestyle,S114,C666
+P115,Home and lifestyle,S115,C711
+P116,Fashion accessories,S116,C708
+P117,Fashion accessories,S117,C137
+P118,Fashion accessories,S118,C233
+P119,Food and beverages,S119,C24
+P120,Home and lifestyle,S120,C433
+P121,Electronic accessories,S121,C447
+P122,Sports and travel,S122,C541
+P123,Sports and travel,S123,C584
+P124,Home and lifestyle,S124,C703
+P125,Fashion accessories,S125,C228
+P126,Home and lifestyle,S126,C159
+P127,Sports and travel,S127,C666
+P128,Fashion accessories,S128,C61
+P129,Food and beverages,S129,C502
+P130,Sports and travel,S130,C556
+P131,Fashion accessories,S131,C503
+P132,Sports and travel,S132,C554
+P133,Sports and travel,S133,C477
+P134,Electronic accessories,S134,C547
+P135,Health and beauty,S135,C640
+P136,Fashion accessories,S136,C485
+P137,Electronic accessories,S137,C266
+P138,Home and lifestyle,S138,C41
+P139,Sports and travel,S139,C500
+P140,Sports and travel,S140,C156
+P141,Sports and travel,S141,C667
+P142,Health and beauty,S142,C189
+P143,Health and beauty,S143,C524
+P144,Food and beverages,S144,C47
+P145,Home and lifestyle,S145,C635
+P146,Health and beauty,S146,C780
+P147,Fashion accessories,S147,C542
+P148,Health and beauty,S148,C677
+P149,Home and lifestyle,S149,C790
+P150,Health and beauty,S150,C465
+P151,Fashion accessories,S151,C337
+P152,Sports and travel,S152,C699
+P153,Fashion accessories,S153,C42
+P154,Food and beverages,S154,C782
+P155,Sports and travel,S155,C502
+P156,Food and beverages,S156,C553
+P157,Electronic accessories,S157,C535
+P158,Home and lifestyle,S158,C119
+P159,Health and beauty,S159,C668
+P160,Sports and travel,S160,C434
+P161,Food and beverages,S161,C446
+P162,Sports and travel,S162,C49
+P163,Food and beverages,S163,C397
+P164,Sports and travel,S164,C304
+P165,Food and beverages,S165,C181
+P166,Health and beauty,S166,C407
+P167,Home and lifestyle,S167,C228
+P168,Fashion accessories,S168,C105
+P169,Food and beverages,S169,C47
+P170,Sports and travel,S170,C126
+P171,Health and beauty,S171,C718
+P172,Food and beverages,S172,C470
+P173,Electronic accessories,S173,C278
+P174,Electronic accessories,S174,C104
+P175,Food and beverages,S175,C152
+P176,Home and lifestyle,S176,C237
+P177,Food and beverages,S177,C567
+P178,Fashion accessories,S178,C674
+P179,Food and beverages,S179,C524
+P180,Health and beauty,S180,C418
+P181,Fashion accessories,S181,C511
+P182,Food and beverages,S182,C491
+P183,Sports and travel,S183,C263
+P184,Health and beauty,S184,C792
+P185,Sports and travel,S185,C539
+P186,Food and beverages,S186,C486
+P187,Home and lifestyle,S187,C190
+P188,Home and lifestyle,S188,C16
+P189,Home and lifestyle,S189,C654
+P190,Home and lifestyle,S190,C62
+P191,Home and lifestyle,S191,C650
+P192,Fashion accessories,S192,C198
+P193,Food and beverages,S193,C269
+P194,Home and lifestyle,S194,C762
+P195,Electronic accessories,S195,C35
+P196,Fashion accessories,S196,C202
+P197,Health and beauty,S197,C476
+P198,Home and lifestyle,S198,C377
+P199,Health and beauty,S199,C260
+P200,Food and beverages,S200,C42
+P201,Sports and travel,S201,C616
+P202,Electronic accessories,S202,C129
+P203,Electronic accessories,S203,C726
+P204,Health and beauty,S204,C705
+P205,Home and lifestyle,S205,C405
+P206,Health and beauty,S206,C410
+P207,Electronic accessories,S207,C752
+P208,Home and lifestyle,S208,C77
+P209,Fashion accessories,S209,C242
+P210,Electronic accessories,S210,C553
+P211,Electronic accessories,S211,C136
+P212,Food and beverages,S212,C678
+P213,Home and lifestyle,S213,C587
+P214,Sports and travel,S214,C466
+P215,Sports and travel,S215,C479
+P216,Home and lifestyle,S216,C731
+P217,Sports and travel,S217,C174
+P218,Electronic accessories,S218,C154
+P219,Fashion accessories,S219,C97
+P220,Food and beverages,S220,C195
+P221,Electronic accessories,S221,C368
+P222,Food and beverages,S222,C266
+P223,Electronic accessories,S223,C168
+P224,Fashion accessories,S224,C144
+P225,Food and beverages,S225,C545
+P226,Sports and travel,S226,C7
+P227,Health and beauty,S227,C463
+P228,Electronic accessories,S228,C422
+P229,Electronic accessories,S229,C597
+P230,Home and lifestyle,S230,C104
+P231,Fashion accessories,S231,C526
+P232,Electronic accessories,S232,C570
+P233,Health and beauty,S233,C240
+P234,Fashion accessories,S234,C493
+P235,Health and beauty,S235,C440
+P236,Sports and travel,S236,C351
+P237,Health and beauty,S237,C307
+P238,Fashion accessories,S238,C251
+P239,Electronic accessories,S239,C657
+P240,Fashion accessories,S240,C242
+P241,Food and beverages,S241,C705
+P242,Health and beauty,S242,C646
+P243,Fashion accessories,S243,C143
+P244,Home and lifestyle,S244,C265
+P245,Home and lifestyle,S245,C8
+P246,Home and lifestyle,S246,C221
+P247,Electronic accessories,S247,C251
+P248,Fashion accessories,S248,C478
+P249,Electronic accessories,S249,C746
+P250,Food and beverages,S250,C119
+P251,Food and beverages,S251,C557
+P252,Fashion accessories,S252,C182
+P253,Sports and travel,S253,C249
+P254,Home and lifestyle,S254,C572
+P255,Home and lifestyle,S255,C45
+P256,Fashion accessories,S256,C146
+P257,Electronic accessories,S257,C590
+P258,Home and lifestyle,S258,C582
+P259,Electronic accessories,S259,C492
+P260,Electronic accessories,S260,C311
+P261,Electronic accessories,S261,C382
+P262,Fashion accessories,S262,C86
+P263,Fashion accessories,S263,C637
+P264,Sports and travel,S264,C31
+P265,Sports and travel,S265,C260
+P266,Sports and travel,S266,C163
+P267,Home and lifestyle,S267,C145
+P268,Food and beverages,S268,C167
+P269,Home and lifestyle,S269,C65
+P270,Home and lifestyle,S270,C428
+P271,Sports and travel,S271,C352
+P272,Health and beauty,S272,C211
+P273,Home and lifestyle,S273,C506
+P274,Home and lifestyle,S274,C243
+P275,Health and beauty,S275,C167
+P276,Fashion accessories,S276,C786
+P277,Home and lifestyle,S277,C232
+P278,Fashion accessories,S278,C150
+P279,Fashion accessories,S279,C340
+P280,Sports and travel,S280,C94
+P281,Home and lifestyle,S281,C389
+P282,Home and lifestyle,S282,C122
+P283,Sports and travel,S283,C418
+P284,Health and beauty,S284,C464
+P285,Health and beauty,S285,C548
+P286,Health and beauty,S286,C257
+P287,Home and lifestyle,S287,C642
+P288,Sports and travel,S288,C600
+P289,Food and beverages,S289,C198
+P290,Home and lifestyle,S290,C545
+P291,Electronic accessories,S291,C718
+P292,Electronic accessories,S292,C69
+P293,Electronic accessories,S293,C125
+P294,Food and beverages,S294,C475
+P295,Health and beauty,S295,C409
+P296,Electronic accessories,S296,C447
+P297,Electronic accessories,S297,C707
+P298,Home and lifestyle,S298,C659
+P299,Home and lifestyle,S299,C128
+P300,Home and lifestyle,S300,C373
+P301,Fashion accessories,S301,C251
+P302,Health and beauty,S302,C775
+P303,Food and beverages,S303,C343
+P304,Electronic accessories,S304,C682
+P305,Electronic accessories,S305,C89
+P306,Electronic accessories,S306,C117
+P307,Sports and travel,S307,C515
+P308,Home and lifestyle,S308,C756
+P309,Electronic accessories,S309,C122
+P310,Fashion accessories,S310,C566
+P311,Sports and travel,S311,C606
+P312,Fashion accessories,S312,C151
+P313,Food and beverages,S313,C522
+P314,Health and beauty,S314,C540
+P315,Electronic accessories,S315,C560
+P316,Food and beverages,S316,C206
+P317,Food and beverages,S317,C495
+P318,Electronic accessories,S318,C197
+P319,Health and beauty,S319,C685
+P320,Health and beauty,S320,C562
+P321,Food and beverages,S321,C225
+P322,Health and beauty,S322,C374
+P323,Health and beauty,S323,C88
+P324,Fashion accessories,S324,C731
+P325,Home and lifestyle,S325,C372
+P326,Sports and travel,S326,C439
+P327,Food and beverages,S327,C106
+P328,Food and beverages,S328,C14
+P329,Health and beauty,S329,C45
+P330,Electronic accessories,S330,C314
+P331,Home and lifestyle,S331,C17
+P332,Food and beverages,S332,C480
+P333,Fashion accessories,S333,C623
+P334,Food and beverages,S334,C318
+P335,Sports and travel,S335,C675
+P336,Electronic accessories,S336,C131
+P337,Fashion accessories,S337,C382
+P338,Sports and travel,S338,C321
+P339,Electronic accessories,S339,C757
+P340,Food and beverages,S340,C781
+P341,Electronic accessories,S341,C456
+P342,Health and beauty,S342,C230
+P343,Health and beauty,S343,C655
+P344,Food and beverages,S344,C628
+P345,Sports and travel,S345,C412
+P346,Fashion accessories,S346,C319
+P347,Electronic accessories,S347,C221
+P348,Home and lifestyle,S348,C120
+P349,Electronic accessories,S349,C708
+P350,Health and beauty,S350,C79
+P351,Fashion accessories,S351,C774
+P352,Electronic accessories,S352,C779
+P353,Fashion accessories,S353,C256
+P354,Home and lifestyle,S354,C768
+P355,Electronic accessories,S355,C161
+P356,Food and beverages,S356,C735
+P357,Fashion accessories,S357,C765
+P358,Sports and travel,S358,C44
+P359,Electronic accessories,S359,C705
+P360,Sports and travel,S360,C210
+P361,Food and beverages,S361,C13
+P362,Food and beverages,S362,C290
+P363,Food and beverages,S363,C687
+P364,Home and lifestyle,S364,C240
+P365,Food and beverages,S365,C354
+P366,Fashion accessories,S366,C603
+P367,Electronic accessories,S367,C740
+P368,Home and lifestyle,S368,C748
+P369,Sports and travel,S369,C102
+P370,Electronic accessories,S370,C105
+P371,Electronic accessories,S371,C38
+P372,Fashion accessories,S372,C241
+P373,Home and lifestyle,S373,C459
+P374,Fashion accessories,S374,C235
+P375,Home and lifestyle,S375,C262
+P376,Fashion accessories,S376,C493
+P377,Home and lifestyle,S377,C313
+P378,Sports and travel,S378,C473
+P379,Fashion accessories,S379,C393
+P380,Electronic accessories,S380,C76
+P381,Sports and travel,S381,C285
+P382,Electronic accessories,S382,C375
+P383,Food and beverages,S383,C382
+P384,Food and beverages,S384,C655
+P385,Food and beverages,S385,C23
+P386,Sports and travel,S386,C674
+P387,Food and beverages,S387,C203
+P388,Health and beauty,S388,C645
+P389,Fashion accessories,S389,C498
+P390,Food and beverages,S390,C515
+P391,Fashion accessories,S391,C678
+P392,Fashion accessories,S392,C305
+P393,Electronic accessories,S393,C333
+P394,Sports and travel,S394,C569
+P395,Health and beauty,S395,C644
+P396,Health and beauty,S396,C466
+P397,Food and beverages,S397,C228
+P398,Home and lifestyle,S398,C578
+P399,Health and beauty,S399,C195
+P400,Electronic accessories,S400,C587
+P401,Food and beverages,S401,C40
+P402,Home and lifestyle,S402,C544
+P403,Home and lifestyle,S403,C313
+P404,Fashion accessories,S404,C206
+P405,Fashion accessories,S405,C418
+P406,Sports and travel,S406,C787
+P407,Food and beverages,S407,C25
+P408,Fashion accessories,S408,C507
+P409,Home and lifestyle,S409,C353
+P410,Fashion accessories,S410,C103
+P411,Health and beauty,S411,C607
+P412,Sports and travel,S412,C622
+P413,Health and beauty,S413,C361
+P414,Sports and travel,S414,C179
+P415,Home and lifestyle,S415,C160
+P416,Health and beauty,S416,C477
+P417,Home and lifestyle,S417,C252
+P418,Health and beauty,S418,C224
+P419,Health and beauty,S419,C231
+P420,Electronic accessories,S420,C731
+P421,Food and beverages,S421,C195
+P422,Electronic accessories,S422,C436
+P423,Fashion accessories,S423,C725
+P424,Fashion accessories,S424,C657
+P425,Fashion accessories,S425,C123
+P426,Fashion accessories,S426,C472
+P427,Health and beauty,S427,C14
+P428,Food and beverages,S428,C432
+P429,Sports and travel,S429,C367
+P430,Home and lifestyle,S430,C37
+P431,Fashion accessories,S431,C378
+P432,Food and beverages,S432,C346
+P433,Electronic accessories,S433,C668
+P434,Fashion accessories,S434,C422
+P435,Fashion accessories,S435,C423
+P436,Sports and travel,S436,C737
+P437,Sports and travel,S437,C561
+P438,Home and lifestyle,S438,C317
+P439,Food and beverages,S439,C195
+P440,Electronic accessories,S440,C704
+P441,Food and beverages,S441,C652
+P442,Sports and travel,S442,C96
+P443,Home and lifestyle,S443,C537
+P444,Fashion accessories,S444,C26
+P445,Sports and travel,S445,C202
+P446,Health and beauty,S446,C554
+P447,Food and beverages,S447,C362
+P448,Fashion accessories,S448,C625
+P449,Health and beauty,S449,C264
+P450,Sports and travel,S450,C274
+P451,Electronic accessories,S451,C144
+P452,Electronic accessories,S452,C386
+P453,Food and beverages,S453,C648
+P454,Health and beauty,S454,C79
+P455,Electronic accessories,S455,C244
+P456,Fashion accessories,S456,C127
+P457,Food and beverages,S457,C306
+P458,Electronic accessories,S458,C185
+P459,Electronic accessories,S459,C91
+P460,Food and beverages,S460,C560
+P461,Food and beverages,S461,C512
+P462,Food and beverages,S462,C450
+P463,Sports and travel,S463,C222
+P464,Food and beverages,S464,C268
+P465,Food and beverages,S465,C329
+P466,Sports and travel,S466,C501
+P467,Health and beauty,S467,C743
+P468,Sports and travel,S468,C438
+P469,Food and beverages,S469,C299
+P470,Electronic accessories,S470,C383
+P471,Home and lifestyle,S471,C412
+P472,Sports and travel,S472,C683
+P473,Fashion accessories,S473,C474
+P474,Health and beauty,S474,C391
+P475,Electronic accessories,S475,C479
+P476,Health and beauty,S476,C253
+P477,Sports and travel,S477,C309
+P478,Electronic accessories,S478,C359
+P479,Sports and travel,S479,C563
+P480,Electronic accessories,S480,C229
+P481,Food and beverages,S481,C85
+P482,Electronic accessories,S482,C164
+P483,Sports and travel,S483,C662
+P484,Home and lifestyle,S484,C206
+P485,Sports and travel,S485,C736
+P486,Sports and travel,S486,C134
+P487,Fashion accessories,S487,C327
+P488,Fashion accessories,S488,C284
+P489,Home and lifestyle,S489,C223
+P490,Home and lifestyle,S490,C564
+P491,Fashion accessories,S491,C232
+P492,Fashion accessories,S492,C510
+P493,Health and beauty,S493,C457
+P494,Home and lifestyle,S494,C649
+P495,Fashion accessories,S495,C80
+P496,Sports and travel,S496,C748
+P497,Electronic accessories,S497,C327
+P498,Food and beverages,S498,C199
+P499,Sports and travel,S499,C763
+P500,Sports and travel,S500,C584
+P501,Sports and travel,S501,C363
+P502,Fashion accessories,S502,C453
+P503,Home and lifestyle,S503,C51
+P504,Sports and travel,S504,C276
+P505,Sports and travel,S505,C490
+P506,Electronic accessories,S506,C750
+P507,Sports and travel,S507,C247
+P508,Food and beverages,S508,C114
+P509,Health and beauty,S509,C382
+P510,Home and lifestyle,S510,C566
+P511,Sports and travel,S511,C412
+P512,Home and lifestyle,S512,C651
+P513,Fashion accessories,S513,C766
+P514,Electronic accessories,S514,C656
+P515,Sports and travel,S515,C40
+P516,Fashion accessories,S516,C1
+P517,Health and beauty,S517,C539
+P518,Home and lifestyle,S518,C119
+P519,Home and lifestyle,S519,C709
+P520,Sports and travel,S520,C395
+P521,Electronic accessories,S521,C212
+P522,Home and lifestyle,S522,C271
+P523,Home and lifestyle,S523,C209
+P524,Health and beauty,S524,C25
+P525,Food and beverages,S525,C498
+P526,Sports and travel,S526,C31
+P527,Fashion accessories,S527,C697
+P528,Fashion accessories,S528,C360
+P529,Food and beverages,S529,C644
+P530,Sports and travel,S530,C537
+P531,Health and beauty,S531,C706
+P532,Fashion accessories,S532,C558
+P533,Electronic accessories,S533,C354
+P534,Food and beverages,S534,C407
+P535,Home and lifestyle,S535,C299
+P536,Home and lifestyle,S536,C446
+P537,Fashion accessories,S537,C792
+P538,Home and lifestyle,S538,C80
+P539,Fashion accessories,S539,C34
+P540,Food and beverages,S540,C493
+P541,Home and lifestyle,S541,C710
+P542,Health and beauty,S542,C160
+P543,Sports and travel,S543,C204
+P544,Electronic accessories,S544,C65
+P545,Food and beverages,S545,C574
+P546,Home and lifestyle,S546,C329
+P547,Fashion accessories,S547,C98
+P548,Sports and travel,S548,C754
+P549,Sports and travel,S549,C793
+P550,Electronic accessories,S550,C444
+P551,Fashion accessories,S551,C54
+P552,Fashion accessories,S552,C264
+P553,Health and beauty,S553,C95
+P554,Electronic accessories,S554,C472
+P555,Electronic accessories,S555,C293
+P556,Home and lifestyle,S556,C273
+P557,Fashion accessories,S557,C269
+P558,Food and beverages,S558,C586
+P559,Food and beverages,S559,C399
+P560,Home and lifestyle,S560,C791
+P561,Electronic accessories,S561,C763
+P562,Food and beverages,S562,C46
+P563,Electronic accessories,S563,C249
+P564,Electronic accessories,S564,C554
+P565,Fashion accessories,S565,C649
+P566,Food and beverages,S566,C492
+P567,Sports and travel,S567,C363
+P568,Fashion accessories,S568,C674
+P569,Fashion accessories,S569,C90
+P570,Sports and travel,S570,C324
+P571,Home and lifestyle,S571,C23
+P572,Sports and travel,S572,C110
+P573,Food and beverages,S573,C507
+P574,Food and beverages,S574,C333
+P575,Sports and travel,S575,C381
+P576,Fashion accessories,S576,C6
+P577,Food and beverages,S577,C329
+P578,Food and beverages,S578,C573
+P579,Health and beauty,S579,C377
+P580,Health and beauty,S580,C110
+P581,Food and beverages,S581,C398
+P582,Health and beauty,S582,C663
+P583,Fashion accessories,S583,C286
+P584,Fashion accessories,S584,C202
+P585,Sports and travel,S585,C432
+P586,Health and beauty,S586,C45
+P587,Food and beverages,S587,C175
+P588,Sports and travel,S588,C299
+P589,Fashion accessories,S589,C283
+P590,Health and beauty,S590,C619
+P591,Health and beauty,S591,C391
+P592,Home and lifestyle,S592,C620
+P593,Sports and travel,S593,C82
+P594,Sports and travel,S594,C389
+P595,Sports and travel,S595,C533
+P596,Health and beauty,S596,C74
+P597,Food and beverages,S597,C652
+P598,Sports and travel,S598,C205
+P599,Fashion accessories,S599,C629
+P600,Home and lifestyle,S600,C717
+P601,Electronic accessories,S601,C194
+P602,Fashion accessories,S602,C350
+P603,Food and beverages,S603,C454
+P604,Sports and travel,S604,C438
+P605,Fashion accessories,S605,C42
+P606,Home and lifestyle,S606,C211
+P607,Fashion accessories,S607,C290
+P608,Food and beverages,S608,C667
+P609,Fashion accessories,S609,C409
+P610,Food and beverages,S610,C569
+P611,Electronic accessories,S611,C372
+P612,Food and beverages,S612,C180
+P613,Fashion accessories,S613,C359
+P614,Sports and travel,S614,C4
+P615,Food and beverages,S615,C454
+P616,Sports and travel,S616,C336
+P617,Sports and travel,S617,C46
+P618,Electronic accessories,S618,C409
+P619,Food and beverages,S619,C138
+P620,Fashion accessories,S620,C77
+P621,Food and beverages,S621,C77
+P622,Food and beverages,S622,C67
+P623,Home and lifestyle,S623,C117
+P624,Fashion accessories,S624,C313
+P625,Fashion accessories,S625,C164
+P626,Food and beverages,S626,C334
+P627,Sports and travel,S627,C397
+P628,Health and beauty,S628,C325
+P629,Home and lifestyle,S629,C11
+P630,Fashion accessories,S630,C359
+P631,Sports and travel,S631,C142
+P632,Electronic accessories,S632,C658
+P633,Food and beverages,S633,C175
+P634,Home and lifestyle,S634,C106
+P635,Food and beverages,S635,C256
+P636,Health and beauty,S636,C323
+P637,Health and beauty,S637,C520
+P638,Electronic accessories,S638,C146
+P639,Food and beverages,S639,C100
+P640,Fashion accessories,S640,C310
+P641,Food and beverages,S641,C451
+P642,Electronic accessories,S642,C672
+P643,Electronic accessories,S643,C601
+P644,Food and beverages,S644,C677
+P645,Electronic accessories,S645,C358
+P646,Home and lifestyle,S646,C205
+P647,Health and beauty,S647,C517
+P648,Fashion accessories,S648,C48
+P649,Sports and travel,S649,C713
+P650,Electronic accessories,S650,C726
+P651,Electronic accessories,S651,C680
+P652,Health and beauty,S652,C552
+P653,Home and lifestyle,S653,C641
+P654,Sports and travel,S654,C272
+P655,Fashion accessories,S655,C645
+P656,Electronic accessories,S656,C373
+P657,Electronic accessories,S657,C574
+P658,Fashion accessories,S658,C781
+P659,Sports and travel,S659,C294
+P660,Fashion accessories,S660,C345
+P661,Sports and travel,S661,C654
+P662,Sports and travel,S662,C189
+P663,Fashion accessories,S663,C563
+P664,Food and beverages,S664,C558
+P665,Sports and travel,S665,C246
+P666,Fashion accessories,S666,C549
+P667,Food and beverages,S667,C578
+P668,Health and beauty,S668,C36
+P669,Health and beauty,S669,C758
+P670,Sports and travel,S670,C258
+P671,Fashion accessories,S671,C624
+P672,Food and beverages,S672,C631
+P673,Health and beauty,S673,C313
+P674,Health and beauty,S674,C565
+P675,Electronic accessories,S675,C679
+P676,Fashion accessories,S676,C566
+P677,Sports and travel,S677,C183
+P678,Food and beverages,S678,C221
+P679,Health and beauty,S679,C608
+P680,Food and beverages,S680,C119
+P681,Electronic accessories,S681,C347
+P682,Sports and travel,S682,C382
+P683,Fashion accessories,S683,C774
+P684,Fashion accessories,S684,C314
+P685,Sports and travel,S685,C206
+P686,Home and lifestyle,S686,C703
+P687,Sports and travel,S687,C536
+P688,Home and lifestyle,S688,C76
+P689,Sports and travel,S689,C677
+P690,Food and beverages,S690,C627
+P691,Sports and travel,S691,C738
+P692,Food and beverages,S692,C419
+P693,Health and beauty,S693,C458
+P694,Fashion accessories,S694,C252
+P695,Food and beverages,S695,C658
+P696,Home and lifestyle,S696,C477
+P697,Sports and travel,S697,C10
+P698,Home and lifestyle,S698,C112
+P699,Electronic accessories,S699,C63
+P700,Home and lifestyle,S700,C113
+P701,Fashion accessories,S701,C498
+P702,Food and beverages,S702,C478
+P703,Fashion accessories,S703,C627
+P704,Health and beauty,S704,C268
+P705,Home and lifestyle,S705,C748
+P706,Health and beauty,S706,C746
+P707,Electronic accessories,S707,C600
+P708,Food and beverages,S708,C182
+P709,Fashion accessories,S709,C324
+P710,Sports and travel,S710,C657
+P711,Food and beverages,S711,C744
+P712,Home and lifestyle,S712,C672
+P713,Electronic accessories,S713,C582
+P714,Health and beauty,S714,C632
+P715,Fashion accessories,S715,C128
+P716,Health and beauty,S716,C534
+P717,Fashion accessories,S717,C323
+P718,Electronic accessories,S718,C298
+P719,Fashion accessories,S719,C785
+P720,Fashion accessories,S720,C302
+P721,Fashion accessories,S721,C174
+P722,Sports and travel,S722,C426
+P723,Home and lifestyle,S723,C303
+P724,Food and beverages,S724,C280
+P725,Food and beverages,S725,C272
+P726,Health and beauty,S726,C118
+P727,Home and lifestyle,S727,C671
+P728,Sports and travel,S728,C782
+P729,Fashion accessories,S729,C13
+P730,Home and lifestyle,S730,C2
+P731,Fashion accessories,S731,C65
+P732,Health and beauty,S732,C640
+P733,Fashion accessories,S733,C322
+P734,Electronic accessories,S734,C36
+P735,Food and beverages,S735,C711
+P736,Health and beauty,S736,C710
+P737,Home and lifestyle,S737,C481
+P738,Electronic accessories,S738,C445
+P739,Electronic accessories,S739,C578
+P740,Home and lifestyle,S740,C712
+P741,Home and lifestyle,S741,C382
+P742,Food and beverages,S742,C228
+P743,Sports and travel,S743,C117
+P744,Home and lifestyle,S744,C762
+P745,Sports and travel,S745,C98
+P746,Food and beverages,S746,C761
+P747,Fashion accessories,S747,C613
+P748,Home and lifestyle,S748,C311
+P749,Home and lifestyle,S749,C579
+P750,Health and beauty,S750,C437
+P751,Fashion accessories,S751,C652
+P752,Food and beverages,S752,C481
+P753,Electronic accessories,S753,C286
+P754,Home and lifestyle,S754,C635
+P755,Fashion accessories,S755,C478
+P756,Fashion accessories,S756,C318
+P757,Electronic accessories,S757,C642
+P758,Home and lifestyle,S758,C142
+P759,Food and beverages,S759,C317
+P760,Food and beverages,S760,C502
+P761,Food and beverages,S761,C428
+P762,Electronic accessories,S762,C110
+P763,Fashion accessories,S763,C429
+P764,Health and beauty,S764,C412
+P765,Health and beauty,S765,C584
+P766,Home and lifestyle,S766,C541
+P767,Fashion accessories,S767,C624
+P768,Sports and travel,S768,C715
+P769,Electronic accessories,S769,C151
+P770,Home and lifestyle,S770,C414
+P771,Sports and travel,S771,C508
+P772,Health and beauty,S772,C478
+P773,Sports and travel,S773,C198
+P774,Food and beverages,S774,C563
+P775,Food and beverages,S775,C155
+P776,Food and beverages,S776,C92
+P777,Health and beauty,S777,C256
+P778,Sports and travel,S778,C650
+P779,Sports and travel,S779,C259
+P780,Electronic accessories,S780,C750
+P781,Health and beauty,S781,C346
+P782,Sports and travel,S782,C635
+P783,Fashion accessories,S783,C691
+P784,Home and lifestyle,S784,C694
+P785,Health and beauty,S785,C168
+P786,Electronic accessories,S786,C599
+P787,Electronic accessories,S787,C27
+P788,Health and beauty,S788,C408
+P789,Health and beauty,S789,C396
+P790,Sports and travel,S790,C601
+P791,Fashion accessories,S791,C687
+P792,Health and beauty,S792,C177
+P793,Home and lifestyle,S793,C313
+P794,Electronic accessories,S794,C759
+P795,Electronic accessories,S795,C280
+P796,Fashion accessories,S796,C171
+P797,Home and lifestyle,S797,C510
+P798,Sports and travel,S798,C239
+P799,Health and beauty,S799,C236
+P800,Home and lifestyle,S800,C288
+P801,Sports and travel,S801,C785
+P802,Electronic accessories,S802,C558
+P803,Fashion accessories,S803,C782
+P804,Fashion accessories,S804,C405
+P805,Electronic accessories,S805,C269
+P806,Home and lifestyle,S806,C625
+P807,Sports and travel,S807,C55
+P808,Electronic accessories,S808,C644
+P809,Health and beauty,S809,C479
+P810,Fashion accessories,S810,C454
+P811,Health and beauty,S811,C509
+P812,Electronic accessories,S812,C575
+P813,Sports and travel,S813,C373
+P814,Electronic accessories,S814,C194
+P815,Electronic accessories,S815,C204
+P816,Food and beverages,S816,C764
+P817,Fashion accessories,S817,C140
+P818,Food and beverages,S818,C526
+P819,Health and beauty,S819,C319
+P820,Food and beverages,S820,C163
+P821,Electronic accessories,S821,C265
+P822,Home and lifestyle,S822,C615
+P823,Sports and travel,S823,C618
+P824,Health and beauty,S824,C793
+P825,Sports and travel,S825,C325
+P826,Sports and travel,S826,C360
+P827,Health and beauty,S827,C365
+P828,Fashion accessories,S828,C687
+P829,Electronic accessories,S829,C770
+P830,Electronic accessories,S830,C93
+P831,Electronic accessories,S831,C75
+P832,Health and beauty,S832,C408
+P833,Sports and travel,S833,C590
+P834,Health and beauty,S834,C552
+P835,Home and lifestyle,S835,C50
+P836,Fashion accessories,S836,C138
+P837,Fashion accessories,S837,C749
+P838,Sports and travel,S838,C437
+P839,Electronic accessories,S839,C617
+P840,Sports and travel,S840,C345
+P841,Fashion accessories,S841,C350
+P842,Electronic accessories,S842,C667
+P843,Sports and travel,S843,C408
+P844,Food and beverages,S844,C208
+P845,Fashion accessories,S845,C148
+P846,Electronic accessories,S846,C228
+P847,Electronic accessories,S847,C468
+P848,Sports and travel,S848,C331
+P849,Food and beverages,S849,C181
+P850,Fashion accessories,S850,C413
+P851,Fashion accessories,S851,C535
+P852,Fashion accessories,S852,C437
+P853,Health and beauty,S853,C288
+P854,Electronic accessories,S854,C575
+P855,Health and beauty,S855,C215
+P856,Fashion accessories,S856,C509
+P857,Food and beverages,S857,C198
+P858,Home and lifestyle,S858,C131
+P859,Health and beauty,S859,C488
+P860,Food and beverages,S860,C223
+P861,Home and lifestyle,S861,C269
+P862,Sports and travel,S862,C511
+P863,Home and lifestyle,S863,C129
+P864,Home and lifestyle,S864,C540
+P865,Electronic accessories,S865,C306
+P866,Health and beauty,S866,C334
+P867,Sports and travel,S867,C396
+P868,Health and beauty,S868,C519
+P869,Food and beverages,S869,C348
+P870,Sports and travel,S870,C642
+P871,Food and beverages,S871,C646
+P872,Fashion accessories,S872,C426
+P873,Electronic accessories,S873,C784
+P874,Sports and travel,S874,C608
+P875,Home and lifestyle,S875,C395
+P876,Home and lifestyle,S876,C348
+P877,Fashion accessories,S877,C614
+P878,Electronic accessories,S878,C673
+P879,Electronic accessories,S879,C407
+P880,Electronic accessories,S880,C626
+P881,Food and beverages,S881,C631
+P882,Fashion accessories,S882,C694
+P883,Sports and travel,S883,C594
+P884,Home and lifestyle,S884,C76
+P885,Food and beverages,S885,C379
+P886,Sports and travel,S886,C537
+P887,Food and beverages,S887,C423
+P888,Electronic accessories,S888,C770
+P889,Fashion accessories,S889,C392
+P890,Sports and travel,S890,C470
+P891,Health and beauty,S891,C287
+P892,Electronic accessories,S892,C416
+P893,Fashion accessories,S893,C225
+P894,Electronic accessories,S894,C687
+P895,Electronic accessories,S895,C751
+P896,Health and beauty,S896,C362
+P897,Fashion accessories,S897,C401
+P898,Food and beverages,S898,C534
+P899,Health and beauty,S899,C741
+P900,Food and beverages,S900,C397
+P901,Electronic accessories,S901,C7
+P902,Home and lifestyle,S902,C307
+P903,Health and beauty,S903,C173
+P904,Food and beverages,S904,C411
+P905,Health and beauty,S905,C392
+P906,Home and lifestyle,S906,C760
+P907,Health and beauty,S907,C736
+P908,Health and beauty,S908,C386
+P909,Food and beverages,S909,C379
+P910,Home and lifestyle,S910,C7
+P911,Food and beverages,S911,C376
+P912,Electronic accessories,S912,C542
+P913,Home and lifestyle,S913,C437
+P914,Fashion accessories,S914,C411
+P915,Food and beverages,S915,C28
+P916,Electronic accessories,S916,C616
+P917,Sports and travel,S917,C247
+P918,Fashion accessories,S918,C141
+P919,Home and lifestyle,S919,C584
+P920,Electronic accessories,S920,C570
+P921,Home and lifestyle,S921,C183
+P922,Home and lifestyle,S922,C352
+P923,Home and lifestyle,S923,C517
+P924,Sports and travel,S924,C282
+P925,Sports and travel,S925,C182
+P926,Electronic accessories,S926,C430
+P927,Sports and travel,S927,C384
+P928,Health and beauty,S928,C407
+P929,Electronic accessories,S929,C531
+P930,Sports and travel,S930,C555
+P931,Home and lifestyle,S931,C786
+P932,Fashion accessories,S932,C138
+P933,Food and beverages,S933,C538
+P934,Health and beauty,S934,C568
+P935,Home and lifestyle,S935,C117
+P936,Home and lifestyle,S936,C365
+P937,Health and beauty,S937,C323
+P938,Sports and travel,S938,C50
+P939,Health and beauty,S939,C516
+P940,Food and beverages,S940,C324
+P941,Food and beverages,S941,C154
+P942,Fashion accessories,S942,C12
+P943,Home and lifestyle,S943,C228
+P944,Health and beauty,S944,C188
+P945,Health and beauty,S945,C419
+P946,Electronic accessories,S946,C363
+P947,Electronic accessories,S947,C122
+P948,Fashion accessories,S948,C773
+P949,Home and lifestyle,S949,C315
+P950,Food and beverages,S950,C377
+P951,Health and beauty,S951,C785
+P952,Home and lifestyle,S952,C423
+P953,Food and beverages,S953,C733
+P954,Food and beverages,S954,C288
+P955,Home and lifestyle,S955,C124
+P956,Fashion accessories,S956,C165
+P957,Food and beverages,S957,C123
+P958,Electronic accessories,S958,C564
+P959,Home and lifestyle,S959,C616
+P960,Food and beverages,S960,C594
+P961,Fashion accessories,S961,C429
+P962,Electronic accessories,S962,C41
+P963,Fashion accessories,S963,C329
+P964,Electronic accessories,S964,C81
+P965,Food and beverages,S965,C441
+P966,Electronic accessories,S966,C230
+P967,Home and lifestyle,S967,C615
+P968,Home and lifestyle,S968,C673
+P969,Health and beauty,S969,C229
+P970,Electronic accessories,S970,C219
+P971,Food and beverages,S971,C116
+P972,Home and lifestyle,S972,C739
+P973,Electronic accessories,S973,C431
+P974,Home and lifestyle,S974,C445
+P975,Fashion accessories,S975,C48
+P976,Fashion accessories,S976,C505
+P977,Food and beverages,S977,C37
+P978,Food and beverages,S978,C618
+P979,Electronic accessories,S979,C398
+P980,Food and beverages,S980,C656
+P981,Food and beverages,S981,C448
+P982,Health and beauty,S982,C70
+P983,Sports and travel,S983,C622
+P984,Health and beauty,S984,C71
+P985,Electronic accessories,S985,C513
+P986,Fashion accessories,S986,C312
+P987,Health and beauty,S987,C161
+P988,Health and beauty,S988,C227
+P989,Electronic accessories,S989,C9
+P990,Health and beauty,S990,C442
+P991,Food and beverages,S991,C239
+P992,Sports and travel,S992,C378
+P993,Electronic accessories,S993,C552
+P994,Fashion accessories,S994,C455
+P995,Electronic accessories,S995,C608
+P996,Health and beauty,S996,C792
+P997,Home and lifestyle,S997,C665
+P998,Food and beverages,S998,C542
+P999,Home and lifestyle,S999,C480
+P1000,Fashion accessories,S1000,C648
