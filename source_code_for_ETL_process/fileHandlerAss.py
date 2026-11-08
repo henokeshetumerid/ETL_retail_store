@@ -92,6 +92,8 @@ def storeFile(fileName):
     df2 = pd.DataFrame(values, columns = ['storeid', 'state', 'city', 'street', 'zip'])
     df2 = df2.sort_values(by = 'storeid')
     df2.to_csv('/home/project/staging_area/store_File.csv', index=False)
+    df2.to_csv('/home/project/staging_area/cleaned_file/store_File.csv', index=False)
+    
 
 #extract and transform a payment from payment_infor.csv 
 # fileName = payment file   fileName2 = customer_file   fileName3 = product_file    fileName4 = store_file  fileName5 = sale_file
@@ -276,62 +278,62 @@ default_args = {
 }
 
 # DAG default
-dags = DAG(
-    "Extract-Transform-Load-Apache-Airflow",
+dag = DAG(
+    dag_id="Extract-Transform-Load-Apache-Airflow",
     description="Apache Airflow Final Assignment",
-    default_args = default_args,
-    schedule = timedelta(minutes=1)
+    default_args=default_args,
+    schedule_interval=timedelta(minutes=1)
 )
 
 
 # task explanation
 task1 = PythonOperator(
-    task1 = "Extract and transform customer.csv from customer and product files",
-    python_callable = customerFile,
-    op_args=["/home/theia/customers.csv", "/home/theia/producttype.csv"],
-    dag=dags
+    task_id="extract_transform_customer",
+    python_callable=customerFile,
+    op_args=["/home/project/staging_area/sourceFile/customers.csv", "/home/project/staging_area/sourceFile/producttype.csv"],
+    dag=dag
 )
 
 task2 = PythonOperator(
-    task1 = "Extract and transform product.csv from product files",
-    python_callable = productFile,
-    op_args=["/home/theia/producttype.csv", "/home/project/staging_area/customer_file.csv"],
-    dag=dags
+    task_id="extract_transform_product",
+    python_callable=productFile,
+    op_args=["/home/project/staging_area/sourceFile/producttype.csv", "/home/project/staging_area/customer_file.csv"],
+    dag=dag
 )
 
 task3 = PythonOperator(
-    task3 = "Extract and transform sales.csv from product and producttype files",
+    task_id="extract_transform_sales",
     python_callable=saleFile,
-    op_args=["/home/theia/producttype.csv", '/home/project/staging_area/product_File.csv'],
-    dag = dags
+    op_args=["/home/project/staging_area/sourceFile/producttype.csv", '/home/project/staging_area/product_File.csv'],
+    dag=dag
 )
 
 task4 = PythonOperator(
-    task4 = "Extract and transform store.csv from payment_infor file",
+    task_id="extract_transform_store",
     python_callable=storeFile,
-    op_args=["/home/theia/payment_infor.csv"],
-    dag = dags
+    op_args=["/home/project/staging_area/sourceFile/payment_infor.csv"],
+    dag=dag
 )
 
 task5 = PythonOperator(
-    task5 = "Extract and transform payment.csv from payment_infor, customer_file, product_file, store_file, sale_file files",
+    task_id="extract_transform_payment",
     python_callable=paymentFile,
-    op_args=["/home/theia/payment_infor.csv", "/home/project/staging_area/customer_file.csv", '/home/project/staging_area/product_File.csv', '/home/project/staging_area/sale_File.csv', '/home/project/staging_area/store_File.csv'],
-    dag = dags
+    op_args=["/home/project/staging_area/sourceFile/payment_infor.csv", "/home/project/staging_area/customer_file.csv", '/home/project/staging_area/product_File.csv', '/home/project/staging_area/sale_File.csv', '/home/project/staging_area/store_File.csv'],
+    dag=dag
 )
 
 task6 = PythonOperator(
-    task6 = "Extract and transform inventory.csv from products and product_File files",
+    task_id="extract_transform_inventory",
     python_callable=inventoryFile,
-    op_args=["/home/theia/products.csv", '/home/project/staging_area/product_File.csv'],
-    dag = dags
+    op_args=["/home/project/staging_area/sourceFile/products.csv", '/home/project/staging_area/product_File.csv'],
+    dag=dag
 )
 
 task7 = PythonOperator(
-    task7 = "Handling missing values for payment, inventory, customer, product, store and sales files",
-    python_callable = Handling_missing_values,
+    task_id="handle_missing_values",
+    python_callable=Handling_missing_values,
     op_args=['/home/project/staging_area/customer_file.csv', '/home/project/staging_area/product_File.csv', '/home/project/staging_area/sale_File.csv', '/home/project/staging_area/payment_file.csv', '/home/project/staging_area/inventory_file.csv'],
-    dag=dags
+    dag=dag
 )
 
 
